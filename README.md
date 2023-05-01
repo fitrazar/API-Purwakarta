@@ -22,7 +22,7 @@ Contoh Response:
 ```bash
 [
   {
-	"id": 13,
+    "id": 13,
     "kode_wilayah": 321401,
     "nama": "Purwakarta",
     "slug": "purwakarta",
@@ -44,7 +44,7 @@ Contoh Response:
         },
 		....
     ],
-	"kelurahans": []
+    "kelurahans": []
   },
   {
     "id": 14,
@@ -57,7 +57,7 @@ Contoh Response:
     "lokasi": "https://goo.gl/maps/zMDvA7YmTSwL6nwa6",
     "luas": "92.01 km",
     "desas": [],
-	"kelurahans": []
+    "kelurahans": []
   },
   ....
 ]
@@ -77,7 +77,7 @@ Contoh Response:
 ```bash
 [
   {
-	"id": 13,
+    "id": 13,
     "kode_wilayah": 321401,
     "nama": "Purwakarta",
     "slug": "purwakarta",
