@@ -42,7 +42,7 @@ Contoh Response:
             "kode_pos": 41111,
             "lokasi": "https://goo.gl/maps/pRr83cnz47FjGkpTA",
         },
-		....
+	....
     ],
     "kelurahans": []
   },
@@ -96,8 +96,10 @@ Contoh Response:
             "tentang": "Citalang adalah sebuah desa di kecamatan Purwakarta, Purwakarta, Jawa Barat, Indonesia.",
             "kode_pos": 41111,
             "lokasi": "https://goo.gl/maps/pRr83cnz47FjGkpTA",
-        }
+        },
+	....
     ],
+   "kelurahans": []
   }
 ]
 ```
