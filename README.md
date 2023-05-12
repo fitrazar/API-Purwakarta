@@ -116,4 +116,4 @@ Contoh Response:
 ### Gunakan free API ini dengan Bijak dan Benar ya :)
 ### Jika ada kesalahan pada API atau ingin meminta saran bisa hubungi email: fitra6751@gmail.com atau lewat issues pada repo ini.
 
-Build With 💙 by Fitra Fajar
+Build With 💙
