@@ -3,7 +3,7 @@
 #### API gratis untuk Data Kecamatan, Desa/Kelurahan di Purwakarta. Baru ada sekitar 74 data dari total 209 data kecamatan, desa/kelurahan.
 
 <div align="center">
-<img alt="Laravel" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"/>
+<a href="laravel.com"><img alt="Laravel" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"/></a>
 </div>
 
 # Penggunaan
