@@ -10,7 +10,7 @@
 
 BASE URL:
 ```bash
-https://fitrazar.my.id/purwakarta
+https://fitrazar.my.id/purwakarta/api
 ```
 ## Menampilkan seluruh kecamatan
 
